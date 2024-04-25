@@ -35,8 +35,6 @@ Registeration Number :212221040003
 */
 ```
 
-## OUTPUT
-
 ## activity_main.xml
 
 ```<?xml version="1.0" encoding="utf-8"?>
@@ -116,6 +114,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+## OUTPUT
+![Screenshot (165)](https://github.com/Rahmxn/graphicsinandroid/assets/104237399/9a7ce0f1-d119-4294-a8b7-e0d557f98358)
 
 ## RESULT
 Thus a Simple Android Application to create and design an android application that draws basic graphical primitives on the screen using Android Studio is developed and executed successfully.
